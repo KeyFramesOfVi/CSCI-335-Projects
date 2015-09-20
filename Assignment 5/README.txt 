@@ -1,0 +1,5 @@
+i. All parts of the assignment were completed.
+ii. There are no bugs in my code. The only weird this is that if you insert a letter when you you are supposed to insert a position to find the shortest path, that it will print the cout lines infinitely. However, this is not a bug with the program but a user forced bug, and otherwise I closed it so that only valid numbers could be entered, and that the program will even end automatically if you enter a start vertex that is not part of the vertex list.
+iii. First, type “make all” to start the makefile. After it is done compiling:
+./findPaths <Graph File> <Starting Vertex #>
+iv. The input files used are Graph1.txt, and Graph2.txt
